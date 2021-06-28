@@ -1,6 +1,10 @@
-# fortiguard_categories
-### Category ID, descripton and URL for testing
+# FortiGuard categories
 
+### Description
+Category ID, descripton and URL for testing
+
+
+### Content
 
 ```yaml
 ---
