@@ -6,7 +6,7 @@
 ---
 "0":
   description: Unrated
-  url: https://wftest0.fortiguard.com/wftest/0.html
+  url: 
 "1":
   description: Drug Abuse
   url: https://wftest1.fortiguard.com/wftest/1.html
