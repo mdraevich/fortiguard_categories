@@ -1,7 +1,7 @@
 # FortiGuard categories
 
 ### Description
-Category ID, descripton and URL for testing
+This file contains category ID, descripton and URL to automate testing of Webfilter profiles.
 
 
 ### Content
