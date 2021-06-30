@@ -10,7 +10,7 @@ This file contains category ID, descripton and URL to automate testing of Webfil
 categories:
   0:
     description: Unrated
-    url: 
+    url: http://80.94.224.35/
   1:
     description: Drug Abuse
     url: https://wftest1.fortiguard.com/wftest/1.html
